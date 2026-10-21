@@ -73,7 +73,6 @@ I enjoy working with **Artificial Intelligence, web development, and software en
 
 *Build. Learn. Improve. Repeat.* 🚀
 
-
 ---
 
 ## 🐍 My GitHub Contributions
