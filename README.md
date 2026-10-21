@@ -2,6 +2,12 @@
   <img src="./banner.png" width="100%" alt="Bhavesh - AI and Full Stack Developer">
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Full-Stack+Developer;Exploring+AI%2C+LLMs+%26+RAG;Building+Web+Applications;Continuously+Learning+%26+Growing" alt="Typing SVG" />
+  </a>
+</p>
+
 # Hey, I'm Bhavesh 👋
 
 ### 💙 AI + Full-Stack Developer
