@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Bhavesh - AI and Full Stack Developer">
+</p>
+
 # Hey, I'm Bhavesh 👋
 
 ### 💙 AI + Full-Stack Developer
