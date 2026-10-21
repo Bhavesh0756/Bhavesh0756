@@ -33,8 +33,7 @@ I enjoy working with **Artificial Intelligence, web development, and software en
 
 **AI, Databases & Tools**
 
-![Groq](https://img.shields.io/badge/Groq-0D1117?style=for-the-badge&logoColor=FFFFFF)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-0D1117?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
@@ -63,4 +62,3 @@ I enjoy working with **Artificial Intelligence, web development, and software en
 ## 💭 Developer Mindset
 
 *Build. Learn. Improve. Repeat.* 🚀
-
