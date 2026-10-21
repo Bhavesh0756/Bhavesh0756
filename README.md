@@ -54,11 +54,11 @@ I enjoy working with **Artificial Intelligence, web development, and software en
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: Add your LinkedIn URL
+💼 LinkedIn: www.linkedin.com/in/bhavesh-gambhirrao-2aab44352
 
-📧 Email: Add your professional email
 
-🐙 GitHub: https://github.com/YOUR_USERNAME
+
+🐙 GitHub: https://github.com/Bhavesh0756
 
 ---
 
