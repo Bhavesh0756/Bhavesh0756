@@ -72,3 +72,12 @@ I enjoy working with **Artificial Intelligence, web development, and software en
 ## 💭 Developer Mindset
 
 *Build. Learn. Improve. Repeat.* 🚀
+
+
+---
+
+## 🐍 My GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bhavesh0756/Bhavesh0756/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
+</p>
