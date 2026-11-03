@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="./banner.png" width="100%" alt="Bhavesh - AI and Full Stack Developer">
 </p>
@@ -53,11 +54,14 @@ I enjoy working with **Artificial Intelligence, web development, and software en
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavesh0756&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Bhavesh0756&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bhavesh0756&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh0756&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Bhavesh0756&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bhavesh0756&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
 
 ---
 
