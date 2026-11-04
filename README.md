@@ -18,7 +18,6 @@ Building, learning, and exploring the world of technology.
 I enjoy working with **Artificial Intelligence, web development, and software engineering** to turn ideas into practical solutions.
 
 - 🤖 Exploring AI, LLMs, and RAG systems
-- 🌐 Interested in full-stack web development
 - 💻 Working with Python, JavaScript, and modern development tools
 - 📚 Always learning something new
 - 🎯 Focused on becoming a better developer every day
